@@ -1,4 +1,4 @@
-package com.eastshine.practice;
+package com.eastshine.batch;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.eastshine.practice.hello;
+package com.eastshine.batch.hello;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.batch.core.Job;

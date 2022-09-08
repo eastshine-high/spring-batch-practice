@@ -1,4 +1,4 @@
-package com.eastshine.practice;
+package com.eastshine.batch;
 
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;
 import org.springframework.boot.SpringApplication;
