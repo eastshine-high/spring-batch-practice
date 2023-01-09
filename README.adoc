@@ -1,8 +1,11 @@
 = 스프링 배치 학습을 위한 저장소입니다
-:toc:
-:toclevels: 3
 
-### 기본 사용법(예제 코드)
+=== 목차
+
+* 기본 학습과 예제 코드
+* 실습하기(요구 사항 구현)
+
+### 기본 사용 학습(예제 코드)
 
 * job
 ** https://github.com/eastshine-high/spring-batch-practice/blob/main/src/main/java/com/eastshine/batch/usage/job/ExecutionContextConfiguration.java[ExecutionContext]
@@ -26,5 +29,5 @@
 ***** https://github.com/eastshine-high/spring-batch-practice/blob/main/src/main/java/com/eastshine/batch/usage/job/step/chunk/writer/JpaItemWriterUsage.java[JpaItemWriter]
 
 ### 실습하기(요구 사항 구현)
- 
+
 - https://github.com/eastshine-high/spring-batch-practice/tree/main/src/main/java/com/eastshine/batch/task/membership[회원 등급 처리]
